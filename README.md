@@ -18,7 +18,7 @@
 <h3 align="center">More Networks:</h3>
 
 <p align="center">
-<a href="https://www.behance.net/https://www.behance.net/iagomoura6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/iagomoura6" height="30" width="40" /></a>
+<a href="https://www.behance.net/iagomoura6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/iagomoura6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbcmrg4fofoy_dliubeejpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbcmrg4fofoy_dliubeejpq" height="30" width="40" /></a>
 <a href="https://discord.gg/KidoG#6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KidoG#6657" height="30" width="40" /></a>
 </p>
